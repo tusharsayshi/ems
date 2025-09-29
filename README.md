@@ -13,10 +13,18 @@ It allows the **admin to assign new tasks and track the status of employees, and
 
 ## 🚀 Features
 
-- 👥 **Add, view, accept, and reject employees' tasks**  
+- 👥 **Task assignment and tracking (active, new, completed, failed)**  
 - 📋 **Database stored in Local Storage**    
 - 📱 **Responsive design**   
 - 🎨 **Clean UI** built with Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Data Storage:** Local Storage  
+- **Deployment:** Render (Live Demo Hosting)  
 
 ---
 
