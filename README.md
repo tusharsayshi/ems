@@ -1,12 +1,67 @@
-# React + Vite
+# 👨‍💼 Employee Management System (EMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue)](https://employee-management-system-8o6n.onrender.com/)  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 About the Project
 
-## Expanding the ESLint configuration
+The **Employee Management System (EMS)** is a web-based solution to simplify employee management for admin.  
+It allows the **admin to assign new tasks and track the status of employees, and employees can accept their tasks, mark as complete or failed** — all in one place.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 👥 **Add, view, accept, and reject employees' tasks**  
+- 📋 **Database stored in Local Storage**    
+- 📱 **Responsive design**   
+- 🎨 **Clean UI** built with Tailwind CSS  
+
+---
+
+## 📸 Screenshots
+
+### Homepage  
+![Homepage Screenshot](https://github.com/user-attachments/assets/810290e6-9a6c-4c36-804c-03fc0233070c)
+
+### Admin Dashboard  
+![Admin Dashboard Screenshot](https://github.com/user-attachments/assets/e468fdf6-257a-49cd-a205-a6cda9fa5839)
+![Admin Dashboard Screenshot](https://github.com/user-attachments/assets/967e60c5-4e7e-41b2-9236-8c26dc2d07b5)
+
+### Employee Dashboard  
+![Employee Dashboard Screenshot](https://github.com/user-attachments/assets/07981d3b-e849-4048-9473-b9b553935ada)
+
+---
+
+## 🔑 Login Credentials
+
+### Admin Login
+- **Email:** `admin@example.com`  
+- **Password:** `123`  
+
+### Employee Logins
+- **Tushar** → `e@e.com` / `123`  
+- **Tanisha** → `employee2@example.com` / `123`  
+- **Divyansh** → `employee3@example.com` / `123`  
+- **Ayush** → `employee4@example.com` / `123`  
+- **Saumya** → `employee5@example.com` / `123`  
+
+---
+
+## 🔧 Installation & Setup
+
+Run this project locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/tusharsayshi/ems.git
+
+# Go to project directory
+cd ems
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
